@@ -44,5 +44,12 @@
 - **核心组件**：CharacterController / Rigidbody、Collider 碰撞检测、AudioSource、Unity 地形系统
 
 ---
+## 🖼️ 游戏截图
+
+![游戏截图1](ShootingGame1.png)
+![游戏截图2](ShootingGame2.png)
+![游戏截图3](ShootingGame3.png)
+
+---
 
 ## 📂 项目结构
